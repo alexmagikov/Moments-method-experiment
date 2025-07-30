@@ -1,0 +1,14 @@
+name: Gaussian_Gaussian
+samples_size: 1000
+exp_num: 74
+distributions:
+- type: Gaussian
+  params:
+  - 1.3711337730137965
+  - 1.3835807859283062
+  prior: 0.2964018716545096
+- type: Gaussian
+  params:
+  - 2.4123090834793084
+  - 2.8032340635193176
+  prior: 0.7035981283454904
