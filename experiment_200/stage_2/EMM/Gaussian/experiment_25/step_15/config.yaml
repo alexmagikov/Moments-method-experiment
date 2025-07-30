@@ -1,0 +1,7 @@
+step_distributions:
+- type: Gaussian
+  params:
+  - -3.0244172435879357
+  - 1.6761387846954903
+  prior: 1.0
+time: 0.006484199984697625

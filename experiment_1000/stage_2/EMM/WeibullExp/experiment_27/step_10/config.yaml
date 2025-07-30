@@ -1,0 +1,7 @@
+step_distributions:
+- type: WeibullExp
+  params:
+  - 4.740455078305126
+  - 0.6652038551985501
+  prior: 1.0
+time: 0.014830299973255023

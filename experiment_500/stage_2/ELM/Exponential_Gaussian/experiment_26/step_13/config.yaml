@@ -1,0 +1,11 @@
+step_distributions:
+- type: Exponential
+  params:
+  - 1.9969066030017737
+  prior: 0.402997867138948
+- type: Gaussian
+  params:
+  - -3.9316982329677663
+  - 4.713807826039379
+  prior: 0.5970021328610521
+time: 0.024090600025374442
